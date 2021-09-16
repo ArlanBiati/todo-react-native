@@ -6,8 +6,10 @@
 </h1>
 
 <h1 align="center">
-	<img style="height: 500px;" src="https://user-images.githubusercontent.com/43690080/133349454-35c7ed92-97bb-4947-99fb-d1c26bb9521f.png" />
 	<img style="height: 500px;" src="https://user-images.githubusercontent.com/43690080/133349438-dd11c7ea-9a17-4fa4-a058-4f257b184c31.gif" />
+	<img style="height: 500px;" src="https://user-images.githubusercontent.com/43690080/133349454-35c7ed92-97bb-4947-99fb-d1c26bb9521f.png" />
+	<img style="height: 500px;" src="https://user-images.githubusercontent.com/43690080/133527307-28bf2019-ae1f-425e-981b-26f507f64558.gif" />
+	
 </h1>
 
 <p>&nbsp;&nbsp;</p>
@@ -55,12 +57,20 @@
 Este projeto foi desenvolvido no primeiro desafio de React Native do curso Ignite.
 
 Neste primeiro desafio colocamos em pratica o que vimos sobre estilização, imutabilidade e estado dentro do react native.
+Neste mesmo projeto fizemos um segundo desafio, onde implementamos um novo componente TaskItem que contem todos os dados referente a UMA atividade. Tambem implementamos diversas features como edição das atividades e alertas.
 
 O projeto é um Aplicativo de tarefas onde podemos:
   - Adicionar uma nova tarefa;
   - Excluir uma tarefa;
   - Marcar ou desmarcar uma tarefa como concluida;
 
+#### Novas Funções
+  - Editar atividades criadas
+  - Alerta para excluir uma atividade
+  - Alerta ao tentar criar uma atividade com mesmo nome
+  - Impossibilidade de marcar atividade como concluida no modo de edição
+
+<img style="height: 500px;" src="https://user-images.githubusercontent.com/43690080/133528291-95d4dfc3-791a-4c93-b803-fdf3163b3d10.gif" />
 
 <p>&nbsp;&nbsp;</p>
 
